@@ -27,6 +27,13 @@
 }
 .policy-meta strong { color: var(--text); }
 
+.lang-switch {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
+.lang-switch a { color: var(--accent); text-decoration: none; }
+.lang-switch a:hover { text-decoration: underline; }
+
 /* Summary box */
 .policy-summary {
   background: var(--surface);
